@@ -19,6 +19,11 @@ public class Java_Basics {
 		char x = 'A';
 		char y = 'B';
 		System.out.println("Char Variables are : " + x + " " + y);
+		
+		// String Variables
+		String name = "Name - A String Variable";
+		System.out.println(name);
+
 
 	}
 
