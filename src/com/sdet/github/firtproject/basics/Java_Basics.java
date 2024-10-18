@@ -13,7 +13,12 @@ public class Java_Basics {
 		int b = 10;
 		int c;
 		c = a + b;
-		System.out.println("Addition value of a and b is:" + c);
+		System.out.println("Addition value of a and b is: " + c);
+
+		// Character
+		char x = 'A';
+		char y = 'B';
+		System.out.println("Char Variables are : " + x + " " + y);
 
 	}
 
